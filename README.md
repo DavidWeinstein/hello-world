@@ -1,8 +1,5 @@
 # hello-world
 <html>
-  <head>
-    <title>Hello world</title>
-  </head>
   <body>
     <header>
       <h1>Hello world,</h1><br><h2><em> I am David Weinstein.</em></h2>
